@@ -17,7 +17,7 @@ Nach einem Hackerangriff versuchen wir das Chaos zu beseitigen und das Repositor
 - [x] Aufgabe 5: Hauptseite
 - [x] Aufgabe 6: Ignoranz
 - [x] Aufgabe 7: Automatisierung
-- [ ] Aufgabe 8: Strategie
-- [ ] Aufgabe 9: Konflikt
+- [x] Aufgabe 8: Strategie
+- [x] Aufgabe 9: Konflikt
 - [ ] Aufgabe 10: Github Pages
 - [ ] Aufgabe 11: Abschluss

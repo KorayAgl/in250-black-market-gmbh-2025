@@ -8,6 +8,7 @@ Nach einem Hackerangriff versuchen wir das Chaos zu beseitigen und das Repositor
 
 - [Verzeichnisstruktur](docs/01_verzeichnisstruktur.md)
 - [Branch-Strategie](docs/02_branch_strategie.md)
+- [GitHub Pages Website](https://korayagl.github.io/in250-black-market-gmbh/ )
 
 
 ## Mein Fortschritt

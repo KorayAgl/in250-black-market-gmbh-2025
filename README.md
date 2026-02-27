@@ -7,6 +7,8 @@ Nach einem Hackerangriff versuchen wir das Chaos zu beseitigen und das Repositor
 ## Wichtige Dokumente
 
 - [Verzeichnisstruktur](docs/01_verzeichnisstruktur.md)
+- [Branch-Strategie](docs/02_branch_strategie.md)
+
 
 ## Mein Fortschritt
 

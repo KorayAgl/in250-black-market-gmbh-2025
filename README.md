@@ -12,8 +12,8 @@ Nach einem Hackerangriff versuchen wir das Chaos zu beseitigen und das Repositor
 
 - [x] Aufgabe 3: Repository Setup
 - [x] Aufgabe 4: Dokumentation
-- [ ] Aufgabe 5: Hauptseite
-- [ ] Aufgabe 6: Ignoranz
+- [x] Aufgabe 5: Hauptseite
+- [x] Aufgabe 6: Ignoranz
 - [ ] Aufgabe 7: Automatisierung
 - [ ] Aufgabe 8: Strategie
 - [ ] Aufgabe 9: Konflikt
